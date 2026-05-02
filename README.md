@@ -1,3 +1,4 @@
+![Daniela Alphabet](daniela alphabet.jpg)
 # 🌍 DANIELA ALPHABET – Human Blink Communication System
 
 ## 🇬🇧 English Version
