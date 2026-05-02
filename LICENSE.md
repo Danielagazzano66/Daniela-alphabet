@@ -1,171 +1,177 @@
-# 🌍 DANIELA ALPHABET – Human Blink Communication System
+# DANIELA HUMANITY LICENSE (DHL) v1.0
 
-## 🇬🇧 English Version
+## 🇬🇧 English Version (Official)
 
-### 🌍 Mission
+### 1. Definition
 
-The Daniela Alphabet is a human communication system developed from the real-life experience of Daniela Gazzano, a person living with Locked-in Syndrome.
-
-It allows communication through minimal signals such as eye blinks, restoring:
-- dignity
-- connection
-- expression
-- human presence
-
-This system is offered freely to all humanity.
+The "System" refers to the communication method based on:
+- alphabet grouping into quadrants
+- sequential selection via minimal signals (e.g. eye blinks)
+- construction of letters, words, and sentences
 
 ---
 
-### 🧠 How it works
+### 2. Permitted Use
 
-The system is based on:
+Anyone is allowed to:
 
-1. Dividing the alphabet into groups (quadrants)
-2. Each group is identified by a number
-3. The user selects:
-   - first the group (e.g. 1–4)
-   - then the letter inside the group
-4. The selection is made through:
-   - eye blinks
-   - eye movements
-   - any minimal voluntary signal
-
-This allows full construction of:
-- letters
-- words
-- complete sentences
+✔ use the System freely  
+✔ teach and share it  
+✔ adapt it for medical, assistive, or educational purposes  
+✔ distribute it without restriction  
 
 ---
 
-### ❤️ Origin
+### 3. Prohibited Use
 
-This method was developed within the family of Daniela Gazzano to enable communication in a condition of total paralysis, where the only possible movement was the eyelids.
+It is strictly forbidden to:
 
-Over time, it enabled:
-- daily communication
-- emotional relationships
-- writing and storytelling
-
----
-
-### 📜 License
-
-This project is released under:
-
-**Daniela Humanity License (DHL) v1.0**
-
-See LICENSE.md
+❌ sell the System or any derived version  
+❌ include the System in commercial products or services  
+❌ patent, register, or claim ownership of the System  
+❌ restrict access to the System  
 
 ---
 
-### ⚖️ Core Principles
+### 4. Non-Commercial Clause
 
-This system is:
+Any use intended to generate direct or indirect profit is prohibited, including but not limited to:
 
-✔ free  
-✔ universal  
-✔ accessible  
-
-But:
-
-❌ cannot be used for profit  
-❌ cannot be patented by third parties  
-❌ cannot be privatized  
+- paid software or applications  
+- commercial medical devices  
+- paid courses based primarily on the System  
 
 ---
 
-### 🤝 Contributions
+### 5. Attribution
 
-Improvements, translations, and adaptations are welcome, as long as they respect the license.
+Any use must include the following attribution:
 
----
-
-### 🌱 Message
-
-"A blink can say everything."
+"Communication method inspired by the experience of Daniela Gazzano"
 
 ---
 
-## 🇮🇹 Versione Italiana
+### 6. Ethical Clause
 
-### 🌍 Missione
+The System is recognized as a humanitarian communication tool.
 
-L'Alfabeto Daniela è un sistema di comunicazione sviluppato a partire dall’esperienza reale di Daniela Gazzano, persona affetta da Locked-in Syndrome.
+Its use must respect:
+- human dignity  
+- inclusion  
+- non-exploitation  
 
-Permette di comunicare attraverso segnali minimi come il battito delle palpebre, restituendo:
+---
+
+### 7. Anti-Privatization
+
+The System is declared a common good for humanity.
+
+Any attempt to privatize, restrict, or monopolize it is invalid.
+
+---
+
+### 8. Irrevocability
+
+This license is:
+- permanent  
+- worldwide  
+- irrevocable  
+
+---
+
+### 9. Legal Nature
+
+This license is inspired by:
+- principles of human rights  
+- protection of common goods  
+- open knowledge frameworks  
+
+---
+
+### 10. Spirit of the License
+
+This license is not only legal.
+
+It is a commitment:
+
+to protect a language born to give voice to those who cannot speak.
+
+---
+
+## 🇮🇹 Traduzione Italiana (non vincolante)
+
+### 1. Definizione
+
+Il "Sistema" si riferisce al metodo di comunicazione basato su:
+- suddivisione alfabetica in gruppi
+- selezione tramite segnali minimi (es. battito di ciglia)
+- costruzione di lettere, parole e frasi
+
+---
+
+### 2. Uso consentito
+
+Chiunque può:
+
+✔ utilizzare il Sistema gratuitamente  
+✔ insegnarlo  
+✔ adattarlo per scopi medici o educativi  
+✔ condividerlo liberamente  
+
+---
+
+### 3. Uso vietato
+
+È vietato:
+
+❌ vendere il Sistema  
+❌ usarlo in prodotti commerciali  
+❌ brevettarlo o registrarlo  
+❌ limitarne l’accesso  
+
+---
+
+### 4. Clausola non commerciale
+
+È vietato qualsiasi uso a scopo di lucro diretto o indiretto.
+
+---
+
+### 5. Attribuzione
+
+Deve essere sempre citato:
+
+"Metodo di comunicazione ispirato all’esperienza di Daniela Gazzano"
+
+---
+
+### 6. Clausola etica
+
+Il Sistema è un bene umanitario e deve rispettare:
 - dignità
-- relazione
-- espressione
-- presenza umana
-
-Questo sistema è reso disponibile gratuitamente a tutta l’umanità.
+- inclusione
+- non sfruttamento  
 
 ---
 
-### 🧠 Come funziona
+### 7. Anti-privatizzazione
 
-Il sistema si basa su:
-
-1. Suddivisione dell’alfabeto in gruppi (quadranti)
-2. Ogni gruppo è associato a un numero
-3. Il comunicatore indica:
-   - prima il gruppo (es. 1–4)
-   - poi la lettera all’interno del gruppo
-4. Il segnale viene dato tramite:
-   - battito di ciglia
-   - movimento oculare
-   - qualsiasi segnale minimo disponibile
-
-Questo consente di costruire:
-- lettere
-- parole
-- frasi complete
+Il Sistema è un bene comune e non può essere privatizzato.
 
 ---
 
-### ❤️ Origine
+### 8. Irrevocabilità
 
-Questo metodo è stato sviluppato all’interno della famiglia di Daniela Gazzano per permettere la comunicazione in una condizione di paralisi totale, dove l’unico movimento possibile è quello delle palpebre.
-
-Nel tempo ha permesso:
-- comunicazione quotidiana
-- relazione affettiva
-- espressione completa
+Licenza permanente, globale e irrevocabile.
 
 ---
 
-### 📜 Licenza
+### 9. Natura giuridica
 
-Questo progetto è distribuito sotto:
-
-**Daniela Humanity License (DHL) v1.0**
-
-Vedi file LICENSE.md
+Ispirata ai diritti umani e ai beni comuni.
 
 ---
 
-### ⚖️ Principi fondamentali
+### 10. Spirito
 
-Questo sistema è:
-
-✔ libero  
-✔ universale  
-✔ accessibile  
-
-Ma:
-
-❌ NON può essere usato per profitto  
-❌ NON può essere brevettato da terzi  
-❌ NON può essere privatizzato  
-
----
-
-### 🤝 Contributi
-
-Sono benvenuti miglioramenti, adattamenti e traduzioni, purché rispettino la licenza.
-
----
-
-### 🌱 Messaggio
-
-"Un battito di ciglia può dire tutto."
+Proteggere un linguaggio nato per dare voce a chi non può parlare.
