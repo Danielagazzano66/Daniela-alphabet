@@ -3,210 +3,163 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daniela Alphabet</title>
+  <title>Daniela Alphabet – Human Communication System</title>
 
   <style>
-    * {
-      box-sizing: border-box;
-    }
-
     body {
       margin: 0;
       font-family: Arial, Helvetica, sans-serif;
-      background: radial-gradient(circle at top, #eef7ff 0%, #ffffff 45%, #f4f6f8 100%);
+      background: #f7f9fc;
       color: #111;
     }
 
-    .hero {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 40px 20px;
-    }
-
-    .card {
-      max-width: 980px;
-      width: 100%;
-      background: rgba(255, 255, 255, 0.92);
-      border-radius: 28px;
-      padding: 50px 40px;
-      box-shadow: 0 25px 70px rgba(0, 0, 0, 0.10);
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 50px 20px;
       text-align: center;
     }
 
-    .image-wrap {
-      margin-bottom: 30px;
-    }
-
-    .image-wrap img {
-      max-width: 430px;
+    img {
+      max-width: 420px;
       width: 100%;
-      height: auto;
-    }
-
-    .kicker {
-      color: #1ca8dd;
-      font-weight: bold;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      font-size: 13px;
-      margin-bottom: 12px;
     }
 
     h1 {
-      font-size: clamp(42px, 7vw, 76px);
-      line-height: 1;
-      margin: 0 0 18px;
-      letter-spacing: -2px;
+      font-size: 56px;
+      margin: 20px 0 10px;
     }
 
-    .subtitle {
-      font-size: clamp(20px, 3vw, 30px);
-      line-height: 1.35;
-      color: #333;
-      max-width: 760px;
-      margin: 0 auto 28px;
+    h2 {
+      font-size: 24px;
+      color: #444;
+      font-weight: normal;
+      margin-bottom: 30px;
     }
 
     .badges {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin: 25px 0 34px;
+      margin-bottom: 30px;
     }
 
     .badge {
-      padding: 10px 18px;
-      border-radius: 999px;
+      display: inline-block;
+      margin: 5px;
+      padding: 8px 16px;
+      border-radius: 20px;
       background: #111;
-      color: #fff;
-      font-weight: bold;
+      color: white;
       font-size: 14px;
+      font-weight: bold;
     }
 
     .text {
-      max-width: 720px;
-      margin: 0 auto;
-      font-size: 19px;
-      line-height: 1.65;
+      max-width: 700px;
+      margin: auto;
+      font-size: 18px;
+      line-height: 1.6;
       color: #333;
     }
 
     .quote {
-      margin: 36px auto 0;
-      font-size: 25px;
+      margin-top: 40px;
+      font-size: 26px;
       font-weight: bold;
-      color: #000;
+    }
+
+    .manifesto {
+      margin-top: 50px;
+      padding: 30px;
+      background: white;
+      border-left: 5px solid #1ca8dd;
+      font-size: 18px;
+      line-height: 1.7;
+      text-align: left;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .buttons {
-      margin-top: 38px;
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 14px;
+      margin-top: 40px;
     }
 
     .button {
       display: inline-block;
-      padding: 15px 24px;
-      border-radius: 999px;
+      margin: 10px;
+      padding: 14px 24px;
+      border-radius: 30px;
       text-decoration: none;
       font-weight: bold;
       font-size: 16px;
-      transition: 0.2s ease;
     }
 
     .primary {
       background: #1ca8dd;
-      color: #fff;
-    }
-
-    .primary:hover {
-      background: #1389b6;
-      transform: translateY(-2px);
+      color: white;
     }
 
     .secondary {
       border: 2px solid #111;
       color: #111;
-      background: #fff;
+      background: white;
     }
 
-    .secondary:hover {
-      background: #111;
-      color: #fff;
-      transform: translateY(-2px);
-    }
-
-    .footer {
-      margin-top: 44px;
+    footer {
+      margin-top: 60px;
       font-size: 14px;
       color: #777;
-    }
-
-    @media (max-width: 600px) {
-      .card {
-        padding: 34px 22px;
-      }
-
-      .quote {
-        font-size: 21px;
-      }
     }
   </style>
 </head>
 
 <body>
-  <main class="hero">
-    <section class="card">
 
-      <div class="image-wrap">
-        <img src="daniela-alphabet.jpg" alt="Daniela Alphabet communication chart">
-      </div>
+  <div class="container">
 
-      <div class="kicker">Human Blink Communication System</div>
+    <img src="daniela-alphabet.jpg" alt="Daniela Alphabet">
 
-      <h1>Daniela Alphabet</h1>
+    <h1>Daniela Alphabet</h1>
+    <h2>A communication system for those who cannot speak</h2>
 
-      <p class="subtitle">
-        A communication system for those who cannot speak.
-      </p>
+    <div class="badges">
+      <span class="badge">Free</span>
+      <span class="badge">Universal</span>
+      <span class="badge">Non-commercial</span>
+      <span class="badge">Human Right</span>
+    </div>
 
-      <div class="badges">
-        <span class="badge">Free</span>
-        <span class="badge">Universal</span>
-        <span class="badge">Non-commercial</span>
-        <span class="badge">Human</span>
-      </div>
+    <div class="text">
+      Daniela Alphabet enables communication through minimal signals such as eye blinks.
+      Developed from real-life experience, it restores dignity, connection and human presence
+      where spoken language is no longer possible.
+    </div>
 
-      <p class="text">
-        Daniela Alphabet allows communication through eye blinks and minimal signals.
-        Born from the real-life experience of Daniela Gazzano, a person with disability (Locked-In Syndrome), it was created to restore
-        dignity, connection and human presence where spoken language is no longer possible.
-      </p>
+    <div class="quote">
+      “A blink can say everything.”
+    </div>
 
-      <div class="quote">
-        “A blink can say everything.”
-      </div>
+    <div class="manifesto">
+      <strong>This system is given freely to humanity.</strong><br><br>
+      It belongs to everyone and to no one.<br>
+      It cannot be owned, patented or used for profit.<br><br>
+      Its only purpose is to restore communication where there is none.
+    </div>
 
-      <div class="buttons">
-        <a class="button primary" href="https://github.com/danielagazzano66/Daniela-alphabet">
-          View the project on GitHub
-        </a>
+    <div class="buttons">
+      <a class="button primary" href="https://github.com/danielagazzano66/Daniela-alphabet">
+        View the Project
+      </a>
 
-        <a class="button secondary" href="https://github.com/danielagazzano66/Daniela-alphabet/blob/main/LICENSE.md">
-          Read the License
-        </a>
-      </div>
+      <a class="button secondary" href="https://github.com/danielagazzano66/Daniela-alphabet/blob/main/LICENSE.md">
+        Read the License
+      </a>
+    </div>
 
-      <div class="footer">
-        Created as a humanitarian common good. Free for all humanity.
-      </div>
+    <footer>
+      A humanitarian common good. Free for all humanity.
+    </footer>
 
-    </section>
-  </main>
+  </div>
+
 </body>
 </html>
