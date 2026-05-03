@@ -9,7 +9,10 @@ The "System" refers to the communication method based on:
 - sequential selection via minimal signals (e.g. eye blinks)
 - construction of letters, words, and sentences
 
----
+- This system is given freely to humanity.
+It belongs to everyone and to no one.
+It cannot be owned, patented or used for profit.
+Its only purpose is to restore communication where there is none.
 
 ### 2. Permitted Use
 
@@ -107,7 +110,10 @@ Il "Sistema" si riferisce al metodo di comunicazione basato su:
 - selezione tramite segnali minimi (es. battito di ciglia)
 - costruzione di lettere, parole e frasi
 
----
+Questo sistema è donato liberamente all’umanità.
+Appartiene a tutti e a nessuno.
+Non può essere posseduto, brevettato o usato a scopo di profitto.
+Il suo unico scopo è restituire comunicazione dove non esiste.
 
 ### 2. Uso consentito
 
