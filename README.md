@@ -5,7 +5,7 @@
 
 ### 🌍 Mission
 
-The Daniela Alphabet is a human communication system developed from the real-life experience of Daniela Gazzano, a person living with Locked-in Syndrome.
+The Daniela Alphabet is a human communication system developed in 2006 from the real-life experience of Daniela Gazzano, a person living with Locked-in Syndrome.
 
 It allows communication through minimal signals such as eye blinks, restoring:
 - dignity
@@ -91,7 +91,7 @@ Improvements, translations, and adaptations are welcome, as long as they respect
 
 ### 🌍 Missione
 
-L'Alfabeto Daniela è un sistema di comunicazione sviluppato a partire dall’esperienza reale di Daniela Gazzano, persona affetta da Locked-in Syndrome.
+L'Alfabeto Daniela è un sistema di comunicazione sviluppato nel 2006 a partire dall’esperienza reale di Daniela Gazzano, persona affetta da Locked-in Syndrome.
 
 Permette di comunicare attraverso segnali minimi come il battito delle palpebre, restituendo:
 - dignità
