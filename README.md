@@ -75,11 +75,6 @@ But:
 
 ---
 
-### 🤝 Contributions
-
-Improvements, translations, and adaptations are welcome, as long as they respect the license.
-
----
 ## Historical Documentation and Public Evidence
 
 The Daniela Alphabet communication system is publicly documented through multiple independent and verifiable sources developed over many years.
@@ -109,7 +104,7 @@ The Daniela Alphabet communication system is publicly documented through multipl
 
 ### Public Dissemination
 
-- The system has been publicly presented through conferences, nonprofit initiatives, social media communication, advocacy activities, and public events related to disability, communication accessibility, and inclusion.
+- The system has been publicly presented through TV, conferences, nonprofit initiatives, social media communication, advocacy activities, and public events related to disability, communication accessibility, and inclusion.
 
 ### Humanitarian Purpose
 
@@ -197,11 +192,6 @@ Ma:
 
 ---
 
-### 🤝 Contributi
-
-Sono benvenuti miglioramenti, adattamenti e traduzioni, purché rispettino la licenza.
-
----
 ## Documentazione Storica e Prove Pubbliche
 
 Il sistema di comunicazione Daniela Alphabet è documentato pubblicamente attraverso molteplici fonti indipendenti e verificabili sviluppate nel corso di molti anni.
@@ -231,7 +221,7 @@ Il sistema di comunicazione Daniela Alphabet è documentato pubblicamente attrav
 
 ### Diffusione Pubblica
 
-- Il sistema è stato presentato pubblicamente attraverso conferenze, iniziative no profit, comunicazione social, attività di sensibilizzazione ed eventi pubblici legati alla disabilità, all’accessibilità della comunicazione e all’inclusione.
+- Il sistema è stato presentato pubblicamente attraverso la TV, conferenze, iniziative no profit, comunicazione social, attività di sensibilizzazione ed eventi pubblici legati alla disabilità, all’accessibilità della comunicazione e all’inclusione.
 
 ### Finalità Umanitaria
 
