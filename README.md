@@ -1,5 +1,5 @@
 ![Daniela Alphabet](daniela-alphabet.jpg)
-# 🌍 DANIELA ALPHABET – Human Blink Communication System
+# 🌍 DANIELA ALPHABET – Human Communication System (AAC)
 
 ## 🇬🇧 English Version
 
