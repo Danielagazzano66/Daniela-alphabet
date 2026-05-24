@@ -80,10 +80,46 @@ But:
 Improvements, translations, and adaptations are welcome, as long as they respect the license.
 
 ---
+## Historical Documentation and Public Evidence
+
+The Daniela Alphabet communication system is publicly documented through multiple independent and verifiable sources developed over many years.
+
+### Historical Origin
+
+- Daniela Gazzano began using the Daniela Alphabet communication method on March 1st, 2006, after developing a severe Locked-in Syndrome condition.
+- The system was progressively developed and used for real-world daily communication with family members, caregivers, and healthcare professionals.
+
+### Published Book
+
+- Daniela Gazzano authored the book *Le storie magiche della radura incantata*, published by Salani Editore in 2018.
+- The book was entirely written using the Daniela Alphabet method through eye-based communication, requiring more than 116,000 eye blinks.
+
+### Public Documentation
+
+- Public television appearances, interviews, demonstrations, and nonprofit association videos are publicly available through the official YouTube channel:
+  https://www.youtube.com/@gliamicididaniela
+
+### Official Websites
+
+- Official project website:
+  https://danielaalphabet.org
+
+- Official association website:
+  https://www.amicididaniela.it/i-nostri-progetti/metodo-di-comunicazione-di-daniela/
+
+### Public Dissemination
+
+- The system has been publicly presented through conferences, nonprofit initiatives, social media communication, advocacy activities, and public events related to disability, communication accessibility, and inclusion.
+
+### Humanitarian Purpose
+
+These materials demonstrate prior public existence, continuous real-world use, historical origin, and non-commercial humanitarian intent associated with the Daniela Alphabet communication system.
+
+This system is shared freely for humanitarian and accessibility purposes and is intended to remain permanently accessible to humanity.
 
 ### 🌱 Message
 
-"A blink can say everything."
+"An eye blink can say everything."
 
 ---
 
@@ -166,6 +202,42 @@ Ma:
 Sono benvenuti miglioramenti, adattamenti e traduzioni, purché rispettino la licenza.
 
 ---
+## Documentazione Storica e Prove Pubbliche
+
+Il sistema di comunicazione Daniela Alphabet è documentato pubblicamente attraverso molteplici fonti indipendenti e verificabili sviluppate nel corso di molti anni.
+
+### Origine Storica
+
+- Daniela Gazzano ha iniziato a utilizzare il metodo di comunicazione Daniela Alphabet il 1° marzo 2006, dopo aver sviluppato una grave condizione di Locked-in Syndrome.
+- Il sistema è stato progressivamente sviluppato e utilizzato nella comunicazione quotidiana reale con familiari, caregiver e professionisti sanitari.
+
+### Libro Pubblicato
+
+- Daniela Gazzano è autrice del libro *Le storie magiche della radura incantata*, pubblicato da Salani Editore nel 2018.
+- Il libro è stato interamente scritto utilizzando il metodo Daniela Alphabet attraverso comunicazione basata sul movimento degli occhi, richiedendo oltre 116.000 battiti di ciglia.
+
+### Documentazione Pubblica
+
+- Apparizioni televisive pubbliche, interviste, dimostrazioni e video dell’associazione no profit sono disponibili pubblicamente attraverso il canale YouTube ufficiale:
+  https://www.youtube.com/@gliamicididaniela
+
+### Siti Ufficiali
+
+- Sito ufficiale del progetto:
+  https://danielaalphabet.org
+
+- Sito ufficiale dell’associazione:
+  https://www.amicididaniela.it/i-nostri-progetti/metodo-di-comunicazione-di-daniela/
+
+### Diffusione Pubblica
+
+- Il sistema è stato presentato pubblicamente attraverso conferenze, iniziative no profit, comunicazione social, attività di sensibilizzazione ed eventi pubblici legati alla disabilità, all’accessibilità della comunicazione e all’inclusione.
+
+### Finalità Umanitaria
+
+Questi materiali dimostrano l’esistenza pubblica precedente, l’utilizzo reale continuativo, l’origine storica e l’intento umanitario non commerciale associato al sistema di comunicazione Daniela Alphabet.
+
+Questo sistema viene condiviso liberamente per finalità umanitarie e di accessibilità ed è destinato a rimanere permanentemente accessibile all’umanità.
 
 ### 🌱 Messaggio
 
